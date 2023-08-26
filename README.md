@@ -15,3 +15,17 @@ Never be caught off guard by the weather again! With WeatherApp, you'll always b
 - **User-Friendly Interface:** The intuitive and easy-to-use interface makes checking the weather quick and straightforward.
 - **Responsive Design:** Access WeatherApp from any device, whether it's your desktop computer, tablet, or mobile phone.
 
+## Screenshots
+
+![Screen](https://github.com/Fajardo-dev/WeatherApp/assets/62899394/10a463f8-9112-44ce-a39f-a31b68bfb44a)
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Weather API (OpenWearthMap API)
+
+## Author
+
+WeatherApp is lovingly crafted by John Fajardo (https://github.com/Fajardo-Dev).
