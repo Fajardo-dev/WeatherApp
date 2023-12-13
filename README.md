@@ -2,7 +2,10 @@
 
 ![WeatherAppThumb](https://github.com/Fajardo-dev/WeatherApp/assets/62899394/173a3727-27b0-48c1-b6e3-812c602cfc1b)
 
-
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
 WeatherApp is a simple application to check the weather for different cities around the world. With this application, you can get updated information about temperature, weather conditions, humidity, and wind speed for the city of your choice.
 
